@@ -6,7 +6,7 @@
       システムアナリスト
     </b>
       <br>
-      Hi there! I'm Rubens Marques
+      Hi there! I'm CLAUDIANE
       <br>
   </samp>
 </div>
