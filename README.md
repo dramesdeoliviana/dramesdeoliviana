@@ -64,7 +64,7 @@
   <br>
   <br>
 
-  [![Gmail]*()
+  [![Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
   [![Instagram]()
   [![Discord]()
   [![WhatsApp]()
