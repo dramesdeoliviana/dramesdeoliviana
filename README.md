@@ -64,11 +64,11 @@
   <br>
   <br>
 
-  [![Gmail]
-  [![Instagram]
-  [![Discord]
-  [![WhatsApp]
-  [![Linkedin]
+  [![Gmail]*()
+  [![Instagram]()
+  [![Discord]()
+  [![WhatsApp]()
+  [![Linkedin]()
   
 
 ##
