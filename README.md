@@ -58,7 +58,7 @@
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      FOR THE MOMENT JUST LEARNING!
     </b>
   </samp>
   <br>
@@ -67,7 +67,7 @@
 
   
 
-##
+
 
 </details>
 
