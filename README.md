@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b> 
-      システムアナリスト
+     情報システム
     </b>
       <br>
       Hi there! I'm RUbens MArques
