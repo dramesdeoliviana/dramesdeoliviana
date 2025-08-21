@@ -6,7 +6,7 @@
      情報システム
     </b>
       <br>
-      Hi there! I'm RUbens MArques
+      ----------Hi there! I'm RUbens MArques---------
     Estudante da Universidade de Uberaba
       <br>
   </samp>
